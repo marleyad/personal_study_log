@@ -40,12 +40,10 @@ This study log isn’t just about tracking hours or completing tasks—it’s a 
 - Refine my skills over the years.
 - Continuously improve my system to support long-term learning and productivity.
 
-I hope this inspires others to create their own systems for tracking and celebrating progress. Feel free to explore and reach out if you have any feedback or suggestions!
+I hope this inspires others to create their own systems for tracking and celebrating progress.
 
 ---
 
 ## How to Access the Study Log
 
 The PDF file of the study log can be found in this repository. It’s a snapshot of my progress and demonstrates the data-driven approach I use to stay focused and motivated.
-
-Thank you for visiting!
