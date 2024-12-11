@@ -5,7 +5,7 @@ Welcome to my **Study Log Repository**, where I track my learning journey and gr
 ## Overview
   
 As of **November 22, 2024**:
-- **426 study days logged**
+- **426 study days logged** 
 - **Over 1,500 hours studied**
 - **5,800+ Anki cards reviewed**
 
