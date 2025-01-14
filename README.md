@@ -8,7 +8,7 @@ As of **November 22, 2024**:
 - **426 study days logged** 
 - **Over 1,500 hours studied**
 - **5,800+ Anki cards reviewed**
-
+  
 This log has been a cornerstone of my learning journey, which began with coding and has since evolved into pursuing a **Master's in Data Science**. It has kept me motivated, organized, and accountable. 
 
 I’m passionate about lifelong learning and committed to improving my skills. I know reaching mastery will take many more years, but I’m proud of the progress I’ve made and the systems I’ve built to support my goals.
