@@ -35,12 +35,7 @@ The study log tracks my progress across several metrics. Below are the details o
 
 ## Vision
 
-This study log isn’t just about tracking hours or completing tasks—it’s a testament to my dedication to growth. With consistent effort, I aim to:
-- Deepen my understanding of Data Science and related fields.
-- Refine my skills over the years.
-- Continuously improve my system to support long-term learning and productivity.
-
-I hope this inspires others to create their own systems for tracking and celebrating progress.
+This study log isn’t just about tracking hours or completing tasks—it’s a testament to how much can be done with consistent work over time.
 
 ---
 
