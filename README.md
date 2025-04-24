@@ -14,7 +14,7 @@ This log has been a cornerstone of my learning journey, which began with coding 
 I’m passionate about lifelong learning and committed to improving my skills. 
 
 ---
-
+ 
 ## Study Log Details
 
 The study log tracks my progress across several metrics. Below are the details of each column in the table:
