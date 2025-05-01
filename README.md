@@ -3,7 +3,7 @@
 Welcome to my **Study Log Repository**, where I track my learning journey and growth over time. This repository includes a PDF printout of the Excel sheet I use to log my study sessions and progress.
    
 ## Overview 
-        
+          
 As of **February 28, 2025**:     
 - **503 study days logged**       
 - **Over 1,800 hours studied**        
