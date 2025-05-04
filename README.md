@@ -4,9 +4,9 @@ Welcome to my **Study Log Repository**, where I track my learning journey and gr
    
 ## Overview  
           
-As of **February 28, 2025**:      
-- **503 study days logged**       
-- **Over 1,800 hours studied**        
+As of **May 2, 2025**:      
+- **557 study days logged**       
+- **Over 1,900 hours studied**        
 - **6,000+ Anki cards reviewed**    
   
 This log has been a cornerstone of my learning journey, which began with coding and has since evolved into pursuing a **Master's in Data Science**. It has kept me motivated, organized, and accountable. 
