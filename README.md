@@ -11,7 +11,7 @@ As of **May 2, 2025**:
   
 This log has been a cornerstone of my learning journey, which began with coding and has since evolved into pursuing a **Master's in Data Science**. It has kept me motivated, organized, and accountable. 
 
-I’m passionate about lifelong learning and committed to improving my skills. 
+I’m passionate about lifelong learning and committed to improving my skills.  
 
 ---
  
